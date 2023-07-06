@@ -8,4 +8,4 @@ This repository contains the simulation scripts for a local parameter identifiab
 We also included a pdf with the results on the command window for the considered parameters.
 
 ## Developement
-Scripts has been created on MATLAB R2020a.
+Scripts has been created on MATLAB R2022a.
