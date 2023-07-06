@@ -1,5 +1,5 @@
 # TFMatlab
-This repository contains the simulation scripts for four different dynamical disease systems:
+This repository contains the simulation scripts for a local parameter identifiability study based on sensitivity anlysis on four different dynamic disease systems:
 -  **SIS model**: The susceptible-infected-susceptible compartmental model.
 -  **SIR model**: The susceptible-infected-recovered compartmental model.
 -  **Influenza virus model**: Compartmental model + population dynamics system. A group of cells (divided in uninfected and infected subpopulations) interacts with a virus titer.
